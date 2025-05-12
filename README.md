@@ -5,6 +5,8 @@ Thesis Approved!
 HAM10000 Dataset
 link: https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification
 
+PAD-UFES Dataset
+link: https://www.kaggle.com/datasets/paulaiskanderrr/pad-ufes-20
 
 
 
