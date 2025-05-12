@@ -1,7 +1,7 @@
 # Makeup-Recommendation
 Thesis Approved!
 
-##References for Datasets
+# Datasets
 HAM10000 Dataset
 link: https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification
 
@@ -12,8 +12,7 @@ Google Drive:
 https://drive.google.com/drive/folders/1dgncKp-kmRTOuX6-2Ch-JW1Z-c-M-McV?usp=sharing
 
 
-
-#Citations:
+# Citations
 @article{Tschandl2018_HAM10000,
     author    = {Philipp Tschandl and
                 Cliff Rosendahl and
