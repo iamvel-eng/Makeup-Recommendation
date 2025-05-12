@@ -8,6 +8,9 @@ link: https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-
 PAD-UFES Dataset
 link: https://www.kaggle.com/datasets/paulaiskanderrr/pad-ufes-20
 
+Google Drive:
+https://drive.google.com/drive/folders/1dgncKp-kmRTOuX6-2Ch-JW1Z-c-M-McV?usp=sharing
+
 
 
 #Citations:
